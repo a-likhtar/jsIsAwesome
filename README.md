@@ -1,0 +1,2 @@
+# jsIsAwesome
+Just for fun
